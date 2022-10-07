@@ -5,7 +5,7 @@
       "package": "@bankly360/header",
       "activeWhen": "/",
       "exact": false,
-      "show": true
+      "show": false
     },
     {
       "name": "@single-spa/welcome",
