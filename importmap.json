@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@bankly360/root-config": "//localhost:9000/bankly360-root-config.js",
+    "@bankly360/header": "//localhost:8100/bankly360-header.js"
+  }
+}
