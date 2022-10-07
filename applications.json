@@ -20,7 +20,8 @@
       "package": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
       "activeWhen": "/",
       "exact": false,
-      "show": true
+      "show": true,
+      "domElement": "main"
     }
   ]
 }
