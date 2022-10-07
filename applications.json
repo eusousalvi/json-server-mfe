@@ -5,7 +5,10 @@
       "package": "@bankly360/header",
       "activeWhen": "/",
       "exact": false,
-      "show": true
+      "show": true,
+      "customProps": {
+        "domElement": document.getElementById('header')
+      }
     },
     {
       "name": "@bankly360/footer",
