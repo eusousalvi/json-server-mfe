@@ -6,9 +6,7 @@
       "activeWhen": "/",
       "exact": false,
       "show": true,
-      "customProps": {
-        "domElement": document.getElementById('header')
-      }
+      "domElement": "header"
     },
     {
       "name": "@bankly360/footer",
