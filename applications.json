@@ -5,7 +5,14 @@
       "package": "@bankly360/header",
       "activeWhen": "/",
       "exact": false,
-      "show": false
+      "show": true
+    },
+    {
+      "name": "@bankly360/footer",
+      "package": "@bankly360/footer",
+      "activeWhen": "/",
+      "exact": false,
+      "show": true
     },
     {
       "name": "@single-spa/welcome",
