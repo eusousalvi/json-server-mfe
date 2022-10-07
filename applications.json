@@ -1,0 +1,18 @@
+{
+  "applications": [
+    {
+      "name": "@bankly360/header",
+      "package": "@bankly360/header",
+      "activeWhen": "/",
+      "exact": false,
+      "show": true
+    },
+    {
+      "name": "@single-spa/welcome",
+      "package": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+      "activeWhen": "/",
+      "exact": false,
+      "show": true
+    }
+  ]
+}
